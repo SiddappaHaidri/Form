@@ -1,0 +1,17 @@
+{
+  "name": "registration-form",
+  "description": "Cloud-hosted Online Registration Form Application",
+  "version": "1.0.0",
+  "keywords": ["registration", "form", "php", "jquery"],
+  "author": "Your Name",
+  "license": "MIT",
+  "require": {
+    "php": "^7.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
